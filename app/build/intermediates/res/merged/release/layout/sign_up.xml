@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/accounts_back" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/parent_top_left_right_padding"
+        android:paddingRight="@dimen/parent_top_left_right_padding"
+        android:paddingTop="@dimen/parent_top_left_right_padding" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="@string/sign_up_top_img"
+            android:scaleType="fitXY"
+            android:src="@drawable/app_icon" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="5dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tvFriendly"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/app_name_caps_friendly"
+                android:textColor="#fff"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/tvLimo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/app_name_caps_limo"
+                android:textColor="#fff"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="2dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="#fff" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tvSign"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sign"
+                    android:textColor="#fff"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/tvUp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/up"
+                    android:textColor="#fff"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="2dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="5dp"
+                android:layout_weight="1"
+                android:background="#fff" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llForm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="11dp"
+            android:layout_marginTop="10dp"
+            android:background="#fff"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="4dp"
+            android:paddingTop="4dp" >
+
+            <LinearLayout style="@style/Signup_Form_LL" >
+
+                <ImageView
+                    style="@style/Signup_Form_IV"
+                    android:contentDescription="@string/first_name"
+                    android:src="@drawable/first_name" />
+
+                <EditText
+                    android:id="@+id/etFirstName"
+                    style="@style/Signup_Form_ET"
+                    android:hint="@string/first_name" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/Signup_Form_LL" >
+
+                <ImageView
+                    style="@style/Signup_Form_IV"
+                    android:layout_width="15dp"
+                    android:contentDescription="@string/last_name" />
+
+                <EditText
+                    android:id="@+id/etLastName"
+                    style="@style/Signup_Form_ET"
+                    android:hint="@string/last_name" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/Signup_Form_LL" >
+
+                <ImageView
+                    style="@style/Signup_Form_IV"
+                    android:contentDescription="@string/email"
+                    android:src="@drawable/email" />
+
+                <EditText
+                    android:id="@+id/etEmail"
+                    style="@style/Signup_Form_ET"
+                    android:hint="@string/email"
+                    android:inputType="textEmailAddress" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/Signup_Form_LL" >
+
+                <ImageView
+                    style="@style/Signup_Form_IV"
+                    android:contentDescription="@string/phn"
+                    android:src="@drawable/phone" />
+
+                <EditText
+                    android:id="@+id/etPhn"
+                    style="@style/Signup_Form_ET"
+                    android:hint="@string/phn"
+                    android:inputType="phone" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/Signup_Form_LL" >
+
+                <ImageView
+                    style="@style/Signup_Form_IV"
+                    android:contentDescription="@string/pwd"
+                    android:src="@drawable/password" />
+
+                <EditText
+                    android:id="@+id/etPwd"
+                    style="@style/Signup_Form_ET"
+                    android:hint="@string/pwd"
+                    android:inputType="textPassword" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bSignUp"
+            style="@style/Account_Btn"
+            android:text="@string/sign_up_caps" />
+    </LinearLayout>
+
+</ScrollView><!-- From: file:/E:/Muzamil/Development%20Folder/Android/workspace/GIT%20Out/app/src/main/res/layout/sign_up.xml -->

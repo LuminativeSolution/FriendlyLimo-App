@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-b1dc00c3f3cba8900f5126522ad883a3ac72997a.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-2e3a2263122dd66d0365a09f080e19609a9eea04.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-ea559381b1817e6db4885dd9142fb4790b9d123d.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-6529bdee2cbafea4c835490bf7e5096786346d01.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-6ca6763ff26b01f3de4ae76e44e310f941c92e38.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-c1a5f8fb5f15deb9d039f9438a74ad99a139e3fc.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-d8c210e828448fee27f6a94547ec13489882a310.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-155b89441d5caa23cf22a55eb7bf5250344de3dc.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-082dce15ba1c2f3bec859f93578af7aee2277f10.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-308f1944faf3c8dde466af71d15ba61f3f24a5e4.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-b76a5619e0ced9663cf544a7611065ee96b9320a.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-a9657641aad6d2bd28ed6e9432a7a6f0b7b2945a.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-883a006a88ea7016e2c03ec0e7e8b82a0ca74818.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-e4dba2e8ce5ca4b4cfbeaa9458603ed7ff1a6219.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-a823ceb3e689ba03cae8afabba86fd171a3a5d7c.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-e73039bc66ab32b5f330eb4ad1e1fbb98f33945f.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c5d704eed4547afc082f92d46965c37a6b571ba3.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-4470b8fb408c93436b52da4837ce93602050c51a.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-79bd6c944f8a126868828bd12a9bb5c89e284356.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-81c4e74703c8246379807389b6f41c98208a4676.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-d7d0e02a959372bc1b7760bb752f2a8fc169db61.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-c62aaed2adcdb1c678865db541891ccb4973cf74.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-12364d165e8a681491076829727fae04639e2747.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-36aefd53d734b472ee41397e6fbb0625edc5127e.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-63958862fd7f27ea7b1e1e061cfb6a05f77e612f.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-a7ab018daa91be002427378ce9d1978497de7298.jar" />
+    </item>
+    <item
+        jar="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="E:\Muzamil\Development Folder\Android\workspace\GIT Out\app\build\intermediates\pre-dexed\debug\classes-6bd63d9cd3775a53d3719625c274b6554fd9796e.jar" />
+    </item>
+
+</items>

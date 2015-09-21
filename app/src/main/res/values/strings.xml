@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Friendly Limo</string>
+    <string name="app_name_caps_friendly">FRIENDLY</string>
+    <string name="app_name_caps_limo">LIMO</string>
+    <string name="app_name_friendly">friendly</string>
+    <string name="app_name_limo">limo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="call_driver">Call</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose">Choose</string>
+    <string name="login">Login</string>
+    <string name="login_caps">LOGIN</string>
+    <string name="sign">Sign</string>
+    <string name="up">up</string>
+    <string name="user">User</string>
+    <string name="taxis_available">Taxis Available</string>
+    <string name="home_icon">Home icon</string>
+    <string name="driver">Driver</string>
+    <string name="username">Username</string>
+    <string name="pwd">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_caps">SIGN UP</string>
+    <string name="email">Email</string>
+    <string name="client_current_loc">My Current Location</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="send_request">Send Request</string>
+    <string name="ok">OK</string>
+
+    <!-- Copied From Taxi Project STARTS -->
+    <string name="b_select_dest">Select Destination</string>
+    <string name="show_map">Show Places on Map</string>
+    <string name="search">Search</string>
+    <string name="prompt_places_distance_type">Show places including near by places?</string>
+    <string name="book_taxi">Book Taxi</string>
+    <string name="prompt_places_distance">Your distance (km)</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name="proceed">Proceed</string>
+    <string name="user_name">User name</string>
+    <string name="phn">Phone</string>
+    <string name="no_passengers">Number of passengers</string>
+    <string name="cost">Cost</string>
+    <string name="user_details">USER DETAILS</string>
+    <string name="duration">Duration</string>
+    <string name="distance">Distance</string>
+    <string name="destination">Destination</string>
+    <string name="from">From</string>
+    <string name="b_book_taxi">Book taxi</string>
+    <string name="goto_user_cur_loc">Go to users current location</string>
+    <string name="goto_user_dest">Go to users destination from users current location</string>
+    <string name="confirm">Confirm</string>
+    <string name="not_now">Not now</string>
+    <string name="reason_request_denied">Mention the reason for request denied</string>
+    <!-- Copied From Taxi Project ENDS -->
+    <string name="sign_up_top_img">Sign up top Image</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="icon_first_name">icon first name</string>
+    <string name="icon_email">icon email</string>
+    <string name="in">in</string>
+    <string name="icon_phn">icon phone</string>
+    <string name="icon_pwd">icon pwd</string>
+    <string name="no_internet_title">No Internet Connection</string>
+    <string name="no_internet_msg">Please enable internet connecttion to proceed</string>
+
+</resources>

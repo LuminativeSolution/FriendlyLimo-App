@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#123654"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="7dp" >
+
+    <Button
+        android:id="@+id/bUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="UserApp"
+        android:text="@string/user"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bDriver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="DriverApp"
+        android:text="@string/driver"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+</LinearLayout><!-- From: file:/E:/Muzamil/Development%20Folder/Android/workspace/GIT%20Out/app/src/main/res/layout/main.xml -->
